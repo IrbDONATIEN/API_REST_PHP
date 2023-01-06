@@ -1,6 +1,6 @@
 # API Development PHP example
 
-## Trivia App
+## API App
 
 This is an example of object oriented programming in MVC but without the view to be able to practice in PHP without using frameworks or libraries, our example API is organized as follows, we have a Config folder that contains the database connection class, the Controllers folder that contains each view file (Read, Create, Update and Delete a student, the other Model folder that contains all the classes from the database.
 
